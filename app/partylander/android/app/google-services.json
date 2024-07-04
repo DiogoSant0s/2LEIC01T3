@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883652005967",
+    "firebase_url": "https://partylander-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "partylander",
+    "storage_bucket": "partylander.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883652005967:android:5f02c888810fb23e4b1a3a",
+        "android_client_info": {
+          "package_name": "com.example.partylander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883652005967-pv42dhrd2bj7l0fsk828ad1of2d8001u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_Uk7NbTHzPw_UqraKLPfPc97dbeujLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883652005967-pv42dhrd2bj7l0fsk828ad1of2d8001u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883652005967-utd21nnutnnld6ubgqbukfv0ch3992e8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.partylander"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
